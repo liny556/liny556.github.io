@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-My name is Guangyu Li, a senior student at the University of Science and Technology of China (USTC). Now, I am devoted in appling a PhD position, if you are interest about my research experence, feel free to contact me!
+My name is Guangyu Li, a senior student at the University of Science and Technology of China (USTC). Now, I am devoted in appling a PhD position, if you are interest about my research experience, feel free to contact me!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Statistical Computation:** Sampling Algorithm, MCMC
+- **Machine Learning:** Scalable, reliable and efficient probabilistic models, data-driven model like RNA-Seq analysis etc.
+
+- Furthermore, I am personally interested in all kinds of directions and hope to try more directions in the future to solve really meaningful problems or understand the data in daily life better.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Nov. 2024]** The website is bulit.
 
 {% include_relative _includes/publications.md %}
 
