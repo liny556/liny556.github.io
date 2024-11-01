@@ -20,12 +20,12 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 Course work for *Introduction of Deep Learning*.
 
 <b>[2] Clusting based on Multiple Models</b> [[pdf](../assets/files/SA_FINAL(1).pdf)]<br/>
-*<u>Guangyu Li<\u>, Tianyi Wang and Wenyi Jin* <br/>
+*<u>Guangyu Li</u>, Tianyi Wang and Wenyi Jin* <br/>
 Course work for *Foundation of Statistic Algorithm*.
 
 
 <b>[3] Ratio Prediction based on Multiple Methods</b> [[pdf](../assets/files/ratio.pdf)]<br/>
-*<u>Guangyu Li<\u>, Nuo Ding and He Chu* <br/>
+*<u>Guangyu Li</u>, Nuo Ding and He Chu* <br/>
 Course work for *Time-Series Analysis*.
 
 
