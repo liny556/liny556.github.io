@@ -16,14 +16,19 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 ## Course Project
 
 <b>[1] Deep Learning in Recommandation</b> [[pdf](../assets/files/Deep_Learning_for_Recommendation.pdf)]<br/>
-*<u>Tianyi Wang, </u>Gaungyu Li and Ming Yan* <br/>
+*Tianyi Wang, <u>Gaungyu Li</u> and Ming Yan* <br/>
+Course work for *Introduction of Deep Learning*.
 
 <b>[2] Clusting based on Multiple Models</b> [[pdf](../assets/files/SA_FINAL(1).pdf)]<br/>
-*Guangyu Li, <u>Tianyi Wang and Wenyi Jin* <br/>
+*<u>Guangyu Li<\u>, Tianyi Wang and Wenyi Jin* <br/>
+Course work for *Foundation of Statistic Algorithm*.
 
-<b>[3] Ratio Prediction based on Multiple Methods</b> [[pdf](../assets/files/.pdf)]<br/>
-*<u>Wenbin Zhou</u> and Jin-Hong Du* <br/>
-Short version accepted by the 23rd International Workshop on Data Mining in Bioinformatics (**BIOKDD**), 2024
+
+<b>[3] Ratio Prediction based on Multiple Methods</b> [[pdf](../assets/files/ratio.pdf)]<br/>
+*<u>Guangyu Li<\u>, Nuo Ding and He Chu* <br/>
+Course work for *Time-Series Analysis*.
+
+
 
 ## News
 
