@@ -2,16 +2,17 @@
 layout: homepage
 ---
 
-## About Me
+## Welcome!
 
-My name is Guangyu Li, a senior student at the University of Science and Technology of China (USTC). Now, I am devoted in appling a PhD position, if you are interest about my research experience, feel free to contact me!
+My name is Guangyu Li, a senior student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Now, I am devoted in appling a PhD position, if you are interest about my research experience, feel free to contact me!
+
+Furthermore, I am personally interested in all kinds of directions and hope to try more directions in the future to solve really meaningful problems or understand the data in daily life better.
 
 ## Research Interests
 
 - **Statistical Computation:** Sampling Algorithm, MCMC
 - **Machine Learning:** Scalable, reliable and efficient probabilistic models, data-driven model like RNA-Seq analysis etc.
 
-- Furthermore, I am personally interested in all kinds of directions and hope to try more directions in the future to solve really meaningful problems or understand the data in daily life better.
 
 ## News
 
