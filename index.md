@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+My name is Guangyu Li, a senior student at the University of Science and Technology of China (USTC). Now, I am devoted in appling a PhD position, if you are interest about my research experence, feel free to contact me!
 
 ## Research Interests
 
