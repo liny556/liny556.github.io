@@ -17,7 +17,3 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 ## News
 
 - **[Nov. 2024]** The website is bulit.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
