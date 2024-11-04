@@ -10,13 +10,13 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 
 ## Research Interests
 
-- **Statistical Computation:** Sampling Algorithm, MCMC
+- **Computational Statistic:** Sampling Algorithm, MCMC
 - **Machine Learning:** Scalable, reliable and efficient probabilistic models, data-driven model like RNA-Seq analysis etc.
 
 ## Course Project
 
 <b>[1] Deep Learning For Book Recommandation</b> [[pdf](../assets/files/Deep_Learning_for_Recommendation.pdf)]<br/>
-*Tianyi Wang, <u>Gaungyu Li</u> and Ming Yan* <br/>
+*Tianyi Wang, <u>Guangyu Li</u> and Ming Yan* <br/>
 Course work for *Introduction of Deep Learning*.
 
 <b>[2] Clustering based on Multiple Models</b> [[pdf](../assets/files/SA_FINAL(1).pdf)]<br/>
