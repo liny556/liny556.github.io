@@ -15,7 +15,7 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 
 ## Paper
 <b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Prepare]<br/>
-*<u>Guangyu Li</u> and Ruqi Zhang* <br/>.
+*<u>Guangyu Li</u> and Ruqi Zhang* <br/>
 
 ## Course Project
 
