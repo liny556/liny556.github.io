@@ -13,6 +13,10 @@ Furthermore, I am personally interested in all kinds of directions and hope to t
 - **Computational Statistic:** Sampling Algorithm, MCMC
 - **Machine Learning:** Scalable, reliable and efficient probabilistic models, data-driven model like RNA-Seq analysis etc.
 
+## Paper
+<b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Prepare]<br/>
+*<u>Guangyu Li</u> and Ruqi Zhang* <br/>.
+
 ## Course Project
 
 <b>[1] Deep Learning For Book Recommandation</b> [[pdf](../assets/files/Deep_Learning_for_Recommendation.pdf)]<br/>
@@ -22,7 +26,6 @@ Course work for *Introduction of Deep Learning*.
 <b>[2] Clustering based on Multiple Models</b> [[pdf](../assets/files/SA_FINAL(1).pdf)]<br/>
 *<u>Guangyu Li</u>, Tianyi Wang and Wenyi Jin* <br/>
 Course work for *Foundation of Statistic Algorithm*.
-
 
 <b>[3] Exchange Ratio Analysis and Prediction based on Multiple Methods</b> [[pdf](../assets/files/ratio.pdf)]<br/>
 *<u>Guangyu Li</u>, Nuo Ding and He Chu* <br/>
