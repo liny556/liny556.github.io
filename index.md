@@ -15,7 +15,7 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 Furthermore, I am personally interested in all kinds of directions and hope to try more directions in the future to solve really meaningful problems or understand the data in daily life better.
 
 ## Paper
-<b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Prepare]<br/>
+<b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Under Review]<br/>
 *<u>Guangyu Li</u> and Ruqi Zhang* <br/>
 
 ## Course Project
