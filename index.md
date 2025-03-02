@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-My name is Guangyu Li, a senior student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Now, I am actively applying for a PhD position, if you are interest about my research experience, feel free to contact me!
+My name is Guangyu Li, a senior student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Now, I am actively applying for a PhD position, if you are interest about my research experience, feel free to contact me![[mail]flipped@mail.ustc.edu.cn]
 
 ## Research Interests
 
