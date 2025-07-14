@@ -15,7 +15,7 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 Furthermore, I am personally interested in all kinds of directions and hope to explore more research fields in the future to combine theoretical statistical foundations with AI implementations.
 
 ## Paper
-<b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Under Review]<br/>
+<b>[1] Continuous-exploratory Discrete Langevin Sampler</b> [Under Review]<br/>
 *<u>Guangyu Li</u> and [Ruqi Zhang](https://ruqizhang.github.io/)* <br/>
 
 ## Course Project
