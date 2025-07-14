@@ -8,11 +8,11 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 
 ## Research Interests
 
-- **Computational Statistics:** Sampling Algorithm, MCMC methods.
-- **Machine Learning:** Scalable, reliable and efficient probabilistic models, Generative models, Data-driven models like RNA-Seq analysis etc.
-- **Optimization:** Combinatorial optimization, Bayesian Optimization.
+- **Computational Statistics:** Numerical optimization, Monte Carlo Methods.
+- **Machine Learning and Generative AI:** Scalable, reliable and efficient probabilistic models, Generative models, including LLMs, VLMs, and diffusion models.
+- **AI-Healthcare:** Computational Pathology, AI assistant in medical diagnose.
 
-Furthermore, I am personally interested in all kinds of directions and hope to try more directions in the future to solve really meaningful problems or understand the data in daily life better.
+Furthermore, I am personally interested in all kinds of directions and hope to explore more research fields in the future to combine theoretical statistical foundations with AI implementations.
 
 ## Paper
 <b>[1] Gradient-Explored Discrete Langevin Sampler</b> [Under Review]<br/>
