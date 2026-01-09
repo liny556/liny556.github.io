@@ -15,7 +15,7 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 Furthermore, I am interested in various directions and hope to explore additional research fields in the future, combining theoretical statistical foundations with AI implementations.
 
 ## Publication
-<b>[1] Accelerating Discrete Langevin Samplers via Continuous Intermediates</b> [[pdf](../assets/files/Accelerating_Discrete_Langevin_Samplers_via_Continuous_Intermediates (3).pdf)]<br/>
+<b>[1] Accelerating Discrete Langevin Samplers via Continuous Intermediates</b> [[pdf](../assets/files/Accelerating_Discrete_Langevin_Samplers_via_Continuous_Intermediates.pdf)]<br/>
 *<u>Guangyu Li</u> and [Ruqi Zhang](https://ruqizhang.github.io/)* <br/>
 
 ## Course Project
