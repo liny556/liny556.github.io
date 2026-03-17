@@ -10,13 +10,16 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 
 - **Computational Statistics:** Numerical Optimization, Monte Carlo Methods.
 - **Probabilistic ML & Generative AI:** Scalable & Efficient Probabilistic Models, Uncertainty Estimation, Bayesian Methods, Alignment & Safety of Foundation Models.
-- **AI for Healthcare:** Computational Pathology, AI Assistant in Medical Diagnosis.
 
 Furthermore, I am interested in various directions and hope to explore additional research fields in the future, combining theoretical statistical foundations with AI implementations.
 
-## Publication
+## Publications/Preprints
 <b>[1] Accelerating Discrete Langevin Samplers via Continuous Intermediates</b> [Under Review][[pdf](../assets/files/Accelerating_Discrete_Langevin_Samplers_via_Continuous_Intermediates.pdf)]<br/>
 *<u>Guangyu Li</u> and [Ruqi Zhang](https://ruqizhang.github.io/)* <br/>
+<b>[2] Understanding Generalization and Forgetting in In-Context Continual Learning</b> [Under Review][[pdf]]<br/>
+*<u>Guangyu Li</u> and Meng Ding and Lijie Hu* <br/>
+<b>[3] The Generalization Error Bound of LoRA</b> [Under Review][[pdf]]<br/>
+*Haojun Wu, <u>Guangyu Li</u> and Canhong Wen* <br/>
 
 ## Course Project
 
