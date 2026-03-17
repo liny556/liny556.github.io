@@ -9,7 +9,7 @@ My name is Guangyu Li, a senior student at [University of Science and Technology
 ## Research Interests
 
 - **Computational Statistics:** Numerical Optimization, Monte Carlo Methods.
-- **Probabilistic ML & Generative AI:** Scalable & Efficient Probabilistic Models, Uncertainty Estimation, Bayesian Methods, Alignment & Safety of Foundation Models.
+- **Probabilistic ML & Generative AI:** Scalable & Efficient Probabilistic Models, Uncertainty Estimation, Bayesian Methods.
 
 Furthermore, I am interested in various directions and hope to explore additional research fields in the future, combining theoretical statistical foundations with AI implementations.
 
