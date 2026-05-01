@@ -39,4 +39,5 @@ Coursework for *Time-Series Analysis*.
 
 ## News
 
-- **[Nov. 2024]** The website is bulit.
+- **[Apr. 2026]** One paper accepted to ICML 2026.
+- **[Nov. 2024]** The website is built.
