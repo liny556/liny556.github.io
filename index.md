@@ -21,22 +21,6 @@ Furthermore, I am interested in various directions and hope to explore additiona
 <b>[3] The Generalization Error Bound of LoRA</b> [Under Review][[pdf]]<br/>
 *Haojun Wu, <u>Guangyu Li</u> and Canhong Wen* <br/>
 
-## Course Project
-
-<b>[1] Deep Learning For Book Recommandation</b> [[pdf](../assets/files/Deep_Learning_for_Recommendation.pdf)]<br/>
-*Tianyi Wang, <u>Guangyu Li</u> and Ming Yan* <br/>
-Coursework for *Introduction of Deep Learning*.
-
-<b>[2] Clustering based on Multiple Models</b> [[pdf](../assets/files/SA_FINAL(1).pdf)]<br/>
-*<u>Guangyu Li</u>, Tianyi Wang and Wenyi Jin* <br/>
-Coursework for *Foundation of Statistical Algorithm*.
-
-<b>[3] Exchange Ratio Analysis and Prediction based on Multiple Methods</b> [[pdf](../assets/files/ratio.pdf)]<br/>
-*<u>Guangyu Li</u>, Nuo Ding and He Chu* <br/>
-Coursework for *Time-Series Analysis*.
-
-
-
 ## News
 
 - **[Apr. 2026]** One paper accepted to ICML 2026.
