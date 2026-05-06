@@ -23,5 +23,6 @@ Furthermore, I am interested in various directions and hope to explore additiona
 
 ## News
 
+- **[May. 2026]** One paper accepted to ProML 2026 Workshop as Spotlight.
 - **[Apr. 2026]** One paper accepted to ICML 2026.
 - **[Nov. 2024]** The website is built.
