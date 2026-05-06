@@ -15,9 +15,9 @@ Furthermore, I am interested in various directions and hope to explore additiona
 
 ## Publications/Preprints
 <b>[1] Accelerating Discrete Langevin Samplers via Continuous Intermediates</b> [[pdf](../assets/files/Accelerating_Discrete_Langevin_Samplers_via_Continuous_Intermediates.pdf)]<br/>
-*<u>Guangyu Li</u> and [Ruqi Zhang](https://ruqizhang.github.io/)* <br/>, ProML 2026 Workshop.
+*<u>Guangyu Li</u> and [Ruqi Zhang](https://ruqizhang.github.io/)* , ProML 2026 Workshop. <br/>
 <b>[2] Understanding Generalization and Forgetting in In-Context Continual Learning</b> <br/>
-*<u>Guangyu Li</u>, Meng Ding and Lijie Hu* <br/>, ICML 2026.
+*<u>Guangyu Li</u>, Meng Ding and Lijie Hu*, ICML 2026. <br/>
 <b>[3] The Generalization Error Bound of LoRA</b> [Under Review][[pdf]]<br/>
 *Haojun Wu, <u>Guangyu Li</u> and Canhong Wen* <br/>
 
