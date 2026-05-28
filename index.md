@@ -4,7 +4,9 @@ layout: homepage
 
 ## Welcome!
 
-My name is Guangyu Li, a graduate student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Now, I am actively applying for a PhD position. If you are interested in my research experience, feel free to contact me! [[mail](flipped@mail.ustc.edu.cn)]
+My name is Guangyu Li, a graduate student at [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Now, I am an incoming PhD student at the Department of Industrial Engineering and Decision Analytics in HKUST.
+
+Open to collaborations! Feel free to reach out if our research interests align.
 
 ## Research Interests
 
